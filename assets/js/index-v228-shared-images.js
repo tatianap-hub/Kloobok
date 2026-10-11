@@ -1,0 +1,1 @@
+(function(){const assets=new Map();document.querySelectorAll('img[data-v228-asset]').forEach(e=>assets.set(e.dataset.v228Asset,e.getAttribute('src')));document.querySelectorAll('img[data-v228-ref]').forEach(e=>{const src=assets.get(e.dataset.v228Ref);if(src)e.setAttribute('src',src);});})();
