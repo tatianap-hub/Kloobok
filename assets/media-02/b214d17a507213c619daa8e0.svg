@@ -1,0 +1,39 @@
+<svg width="393" height="852" viewBox="0 0 393 852" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="393" height="852" fill="white"/>
+<rect x="56.5" y="142" width="280" height="220" rx="12" fill="url(#paint0_linear_784_15727)"/>
+<text fill="#172864" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="26" font-weight="600" letter-spacing="0em"><tspan x="46.9365" y="407.955">Envoy&#xe9; pour validation !</tspan></text>
+<text fill="#172864" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="15" letter-spacing="0em"><tspan x="40.3696" y="451.955">Votre profil et vos activit&#xe9;s sont en cours de </tspan><tspan x="36.3413" y="474.955">v&#xe9;rification. Nous vous informerons d&#xe8;s qu&#x2019;ils </tspan><tspan x="101.512" y="497.955">seront pr&#xea;ts &#xe0; &#xea;tre publi&#xe9;s.</tspan></text>
+<rect x="24" y="524" width="345" height="52" rx="12" fill="#172864"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="119.891" y="555.818">Revenir &#xe0; mon profil</tspan></text>
+<text fill="#F56857" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="13" letter-spacing="0em"><tspan x="135.029" y="622.727">Revoir mes activit&#xe9;s</tspan></text>
+<mask id="path-7-inside-1_784_15727" fill="white">
+<path d="M0 750H393V852H0V750Z"/>
+</mask>
+<path d="M0 750H393V852H0V750Z" fill="white"/>
+<path d="M0 750V750.833H393V750V749.167H0V750Z" fill="#D7DFED" mask="url(#path-7-inside-1_784_15727)"/>
+<path d="M46.0982 790.319C50.0194 790.319 53.1982 787.14 53.1982 783.219C53.1982 779.298 50.0194 776.119 46.0982 776.119C42.1769 776.119 38.9982 779.298 38.9982 783.219C38.9982 787.14 42.1769 790.319 46.0982 790.319Z" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M51.3982 788.52L56.3982 793.52" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip0_784_15727)">
+<path d="M130.595 777.22C129.545 776.176 128.125 775.59 126.645 775.59C125.164 775.59 123.744 776.176 122.695 777.22L121.895 778.02L121.095 777.22C120.025 776.291 118.642 775.802 117.226 775.852C115.81 775.902 114.465 776.487 113.463 777.489C112.461 778.491 111.876 779.836 111.826 781.252C111.777 782.668 112.266 784.05 113.195 785.12L113.995 785.92L121.895 793.42L129.795 785.92L130.595 785.12C131.639 784.071 132.225 782.651 132.225 781.17C132.225 779.69 131.639 778.27 130.595 777.22Z" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M203.141 788.119C203.825 786.894 204.159 785.503 204.106 784.1C204.053 782.697 203.615 781.336 202.839 780.166C202.064 778.995 200.982 778.061 199.711 777.465C198.44 776.868 197.029 776.633 195.634 776.785C194.238 776.937 192.911 777.47 191.798 778.326C190.685 779.182 189.829 780.327 189.324 781.637C188.819 782.947 188.684 784.371 188.934 785.752C189.184 787.134 189.809 788.42 190.741 789.469C191.938 790.991 193.67 791.998 195.584 792.286C197.498 792.574 199.45 792.121 201.041 791.019" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M192.791 777.369C196.291 777.719 198.991 780.769 200.041 784.269" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190.041 780.67C194.791 780.97 198.691 783.82 200.891 788.47" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189.141 784.769C192.841 784.019 196.791 785.169 199.241 788.169" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M195.041 776.82C194.491 780.62 195.941 784.22 200.391 787.72" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M201.491 789.57C203.041 789.02 204.191 789.42 204.641 790.82C204.991 791.92 204.091 792.92 202.991 792.92" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M280.087 784.02C280.104 785.236 279.868 786.442 279.395 787.563C278.922 788.684 278.222 789.694 277.338 790.53C276.455 791.367 275.408 792.011 274.263 792.422C273.119 792.833 271.901 793.003 270.687 792.92C269.656 792.847 268.644 792.611 267.687 792.22L262.087 793.42L263.287 788.12C262.553 786.874 262.14 785.465 262.087 784.02C262.087 781.633 263.036 779.343 264.723 777.656C266.411 775.968 268.7 775.02 271.087 775.02C273.474 775.02 275.764 775.968 277.451 777.656C279.139 779.343 280.087 781.633 280.087 784.02Z" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="345.69" cy="784.42" r="16.375" fill="#E1EBF8" stroke="#172864" stroke-width="1.25"/>
+<circle cx="345.69" cy="784.42" r="14" fill="#E3ECF8"/>
+<defs>
+<linearGradient id="paint0_linear_784_15727" x1="56.5" y1="362" x2="270.254" y2="89.9495" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6F9FD"/>
+<stop offset="0.4999" stop-color="#F6F9FD"/>
+<stop offset="0.5" stop-color="#E3ECF8"/>
+<stop offset="1" stop-color="#E3ECF8"/>
+</linearGradient>
+<clipPath id="clip0_784_15727">
+<rect width="24" height="24" fill="white" transform="translate(109.895 772.42)"/>
+</clipPath>
+</defs>
+</svg>

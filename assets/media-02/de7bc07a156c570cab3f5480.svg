@@ -1,0 +1,41 @@
+<svg width="393" height="852" viewBox="0 0 393 852" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="393" height="852" fill="white"/>
+<g clip-path="url(#clip0_784_12553)">
+<rect x="46.5" y="170" width="300" height="260" rx="12" fill="url(#paint0_linear_784_12553)"/>
+<text fill="#172864" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="600" letter-spacing="0em"><tspan x="63.5137" y="481.182">Demande envoy&#xe9;e !</tspan></text>
+<text fill="#172864" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="57.4297" y="528.818">L&#x2019;animateur va confirmer votre place.&#10;</tspan><tspan x="60.1641" y="550.818">Retrouvez votre demande dans Mes </tspan><tspan x="147.586" y="572.818">r&#xe9;servations.</tspan></text>
+</g>
+<mask id="path-4-inside-1_784_12553" fill="white">
+<path d="M0 750H393V852H0V750Z"/>
+</mask>
+<path d="M0 750H393V852H0V750Z" fill="white"/>
+<path d="M0 750V750.833H393V750V749.167H0V750Z" fill="#D7DFED" mask="url(#path-4-inside-1_784_12553)"/>
+<path d="M46.098 790.319C50.0193 790.319 53.198 787.14 53.198 783.219C53.198 779.298 50.0193 776.119 46.098 776.119C42.1768 776.119 38.998 779.298 38.998 783.219C38.998 787.14 42.1768 790.319 46.098 790.319Z" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M51.3982 788.519L56.3982 793.519" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#clip1_784_12553)">
+<path d="M130.595 777.219C129.545 776.175 128.125 775.589 126.645 775.589C125.164 775.589 123.744 776.175 122.695 777.219L121.895 778.019L121.095 777.219C120.025 776.29 118.642 775.801 117.226 775.851C115.81 775.901 114.465 776.486 113.463 777.488C112.461 778.49 111.876 779.835 111.826 781.251C111.777 782.667 112.266 784.049 113.195 785.119L113.995 785.919L121.895 793.419L129.795 785.919L130.595 785.119C131.639 784.07 132.225 782.65 132.225 781.169C132.225 779.689 131.639 778.269 130.595 777.219Z" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M203.141 788.118C203.825 786.893 204.159 785.502 204.106 784.099C204.053 782.696 203.615 781.335 202.839 780.165C202.064 778.994 200.982 778.06 199.711 777.464C198.44 776.867 197.029 776.632 195.634 776.784C194.238 776.936 192.911 777.469 191.798 778.325C190.685 779.181 189.829 780.326 189.324 781.636C188.819 782.946 188.684 784.37 188.934 785.751C189.184 787.133 189.809 788.419 190.741 789.468C191.938 790.99 193.67 791.997 195.584 792.285C197.498 792.573 199.45 792.12 201.041 791.018" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M192.791 777.369C196.291 777.719 198.991 780.769 200.041 784.269" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190.041 780.669C194.791 780.969 198.691 783.819 200.891 788.469" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189.141 784.769C192.841 784.019 196.791 785.169 199.241 788.169" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M195.041 776.819C194.491 780.619 195.941 784.219 200.391 787.719" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M201.491 789.569C203.041 789.019 204.191 789.419 204.641 790.819C204.991 791.919 204.091 792.919 202.991 792.919" stroke="#F56857" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M280.087 784.019C280.104 785.235 279.868 786.441 279.395 787.562C278.922 788.683 278.222 789.693 277.338 790.529C276.455 791.366 275.408 792.01 274.263 792.421C273.118 792.832 271.901 793.002 270.687 792.919C269.656 792.847 268.643 792.61 267.687 792.219L262.087 793.419L263.287 788.119C262.553 786.873 262.14 785.464 262.087 784.019C262.087 781.632 263.035 779.342 264.723 777.655C266.411 775.967 268.7 775.019 271.087 775.019C273.474 775.019 275.763 775.967 277.451 777.655C279.139 779.342 280.087 781.632 280.087 784.019Z" stroke="#858C99" stroke-width="1.89979" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="345.69" cy="784.419" r="16.375" fill="#E1EBF8" stroke="#172864" stroke-width="1.25"/>
+<circle cx="345.69" cy="784.419" r="14" fill="#E3ECF8"/>
+<defs>
+<linearGradient id="paint0_linear_784_12553" x1="46.5" y1="430" x2="303.86" y2="133.046" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6F9FD"/>
+<stop offset="0.4999" stop-color="#F6F9FD"/>
+<stop offset="0.5" stop-color="#E3ECF8"/>
+<stop offset="1" stop-color="#E3ECF8"/>
+</linearGradient>
+<clipPath id="clip0_784_12553">
+<rect width="345" height="408" fill="white" transform="translate(24 170)"/>
+</clipPath>
+<clipPath id="clip1_784_12553">
+<rect width="24" height="24" fill="white" transform="translate(109.895 772.419)"/>
+</clipPath>
+</defs>
+</svg>
